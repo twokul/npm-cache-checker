@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ember-cli": "0.2.0",
+    "foo-cli": "0.1.0"
+  }
+}
